@@ -1,7 +1,7 @@
 # MINPRO-DDP-2
  Zahra Aulia Rahmah - 2409116020 - SI' 24
-
- ![minpro DDP 2- Zahra Aulia Rahmah-2409116020 drawio (2)](https://github.com/user-attachments/assets/ffb742c4-0b2b-4d0d-90d4-1f6389fe15f0)
+ 
+![minpro DDP 2- Zahra Aulia Rahmah-2409116020 drawio (3)](https://github.com/user-attachments/assets/c2e6d3e7-cfdb-42fd-80ef-682bc9e2c473)
 
 
  # Sistem Konsultasi Kecantikan Perawatan 
